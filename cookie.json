@@ -1,3 +1,7 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
 .facebook.com	TRUE	/login/device-based/	TRUE	1789669718	dbln	%7B%2261591181484857%22%3A%221vM2Kbmi%22%7D
 www.wikipedia.org	FALSE	/	TRUE	1784728183	WMF-Last-Access	20-Jun-2026
 .wikipedia.org	TRUE	/	TRUE	1784728183	WMF-Last-Access-Global	20-Jun-2026
